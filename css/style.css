@@ -1,0 +1,103 @@
+@import url('position.css');
+@import url('./colors.css');
+@import url('text.css');
+
+/******************************************
+/* MATERIAL ICONS
+/*******************************************/
+/* @import url("https://fonts.googleapis.com/icon?family=Material+Icons"); */
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons+Round");
+
+/******************************************
+/* GOOGLE FONTS
+/*******************************************/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700&display=swap');
+
+/* Box Model Hack */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    color: rgb(0, 0, 0);
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+html {
+
+    font: normal 400 62.5% 'Abhaya Libre', serif;
+}
+
+nav {
+
+}
+
+.btn {
+
+}
+
+section,
+p, span, a, 
+i, input, button {
+
+}
+span {
+
+}
+.txt-sm {
+
+}
+
+h1, h1 > * {
+
+}
+h2, h2 > * {
+
+}
+h3 {
+
+}
+h4 {
+
+}
+p {
+
+}
+
+
+.pd-x-base {
+
+}
+
+/******************************************/
+/************ FOR TESTING ONLY ************/
+/******************************************/
+.br-red {
+    border: 1px solid red;
+}
+.brc-red > * {
+    border: 1px solid red;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+
+}
+
+
+footer {
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
