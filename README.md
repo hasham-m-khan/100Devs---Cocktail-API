@@ -1,3 +1,3 @@
 # 100Devs-Cocktail-API
 
-* Select a drink fromt he dropdown
+* Select a drink from the dropdown
